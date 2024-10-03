@@ -19,3 +19,7 @@ body{
     background-color: rgb(52, 226, 43);
     min-height: 100vh;
 }
+
+*{
+	transition: 0.4s;
+}
