@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+
+.ecran{
+    background-color: blueviolet;
+    min-height: 100vh;
+}
+
+.ecran2{
+    background-color: rgb(226, 150, 43);
+    min-height: 100vh;
+}
+
+.ecran3{
+    background-color: rgb(52, 226, 43);
+    min-height: 100vh;
+}
